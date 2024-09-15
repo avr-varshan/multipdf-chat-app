@@ -32,4 +32,4 @@ The MultiPDF Chat App is a Python application that allows you to upload multiple
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/multipdf-chat-app.git
+   git clone https://github.com/avr-varshan/multipdf-chat-app.git
